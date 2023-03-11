@@ -89,4 +89,4 @@ The web app compatibility and accessibility are tested with the Chrome browser f
 ## Contribution
 The [GitHub](https://github.com/ghafers/web_project) repository is used to develop the web app project collaboratively.
 
-Group C © Cheylea Hopkinson, Ghafer Ahmed Khan, Khalid Younis, Shelley Allsopp
+Group C © Khalid Younis, Cheylea Hopkinson, Ghafer Ahmed Khan, Shelley Allsopp
